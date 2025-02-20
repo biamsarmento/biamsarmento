@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Beatriz Sarmento</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+<p align="center"> 
+  I'm a full-stack developer passionate about technology and innovation. I've always known I wanted to work in tech, which led me to pursue a degree in Network Engineering at the University of Brasília (UnB). There, I built a strong foundation in computer systems, networking, and programming.  
+
+  During my academic journey, I became increasingly interested in software development, especially in building web applications and solving complex problems through programming. Over the years, I have honed my skills in JavaScript, React, Node.js, Python, and both relational and non-relational databases.  
+
+  Currently, I am focused on deepening my knowledge of data structures and algorithms while preparing for technical challenges in full-stack development. My goal is to build efficient, scalable, and well-structured solutions.
+</p>
+
 - 🔭 I’m currently working on **improving my algorithms and problem-solving skills while building full-stack projects.**
 
 - 🌱 I’m currently learning **data structures, system design, and best practices for scalable applications.**
