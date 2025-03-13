@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beatriz Sarmento</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 <p align="center"> 
   I'm a full-stack developer passionate about technology and innovation. I've always known I wanted to work in tech, which led me to pursue a degree in Network Engineering at the University of Brasília (UnB). There, I built a strong foundation in computer systems, networking, and programming.  
